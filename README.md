@@ -138,9 +138,10 @@ Additional observations:
 ---
 
 ## Repository Structure
-├── data/dataset_train.zip
 ├── Autoencoder.ipynb # Model training and evaluation
+
 ├── results/
+
 └── README.md
 
 ---
